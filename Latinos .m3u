@@ -1,0 +1,155 @@
+#EXTM3U
+
+
+#EXTINF:-1 type="stream" channelId="1" name="TNT" group="CINE" logo="https://https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" tvg-country="CINE", TNT
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CoAFvxWHYCTt1GmSnWm2_9SAeM8hDuvwRiSRWS0W2LrE9FPdPY6Ed2fExl-RznpwMS4TBiJKzLlWjn7owTj91z2WEqjczlqqZBpzVJ8HmORazY1SRSQPEaXtjJ5K0dorRoMgNfPMYIrvmHrhIuSwGfzb2EhdUJ_zqDf1K5zLU-dr4qfYT8KW7j9og1waCJWaXszbczWfxaWXJBVM58CuSYPJW5SUKM52atbDsrj19ZGcIhAqkUWMulf7RtNCARz5FSVXZUtxRet7SZS0iOGUqPHYswaATTSgzpssmS0n4O-uwkfX5-CRLhuq9dI9_a3SKQs_HYoiUU0VCUlcn0ZO9grJdYmYBpjE1yZRwCIn_iDH6DTzhmKSB0ykgmVcBOXvpV_swAK06_62afVMe7jg3BOVaztS0IGoAMbkleHV2AOIZVcOd9YZbN7kSEH0eEUyxxY1IGD0MH0NYo2wj6kSwVnO_1iB0mRZYa9lE7lRXI47iGrTgsoo2Ob4AM0-RugRU9zZz4lIzd4J7b8RrIi_Awa3I-aTO1ZEgDZspDbUCSxaLDxeQw7KFWurT5wbwK2IXHu1LvNqMPI2xNVxlYezWpb0KO53flGY5ib4RshMOVQ3nWpm4_7kYNMEBafCI3beZY48AbsWKZNbWUsvt_0LTKFGhop60UZQOgmkpvOWO9KV0ok1r3I3Zmu1UJonZo0vlaET3bMU491JelUpTpZ1AdBkkiHQ7VHjBH7u1i38CRur18t0PffNXIDeJhxiaylFWqUpQ79qeMDw4D9pKj9pYxtinUDJlryV-xuzXUttDUb1aGhKfAekQAXGYfhkOV8UxKdz6sit0b4QpQqry4B4UX1jwBIQ5UOVqa7OhAZgRCI6i2sNrhoMPYvpmZLtyZ7fztlQ.m3u8
+
+
+#EXTINF:-1 type="stream" channelId="2" name="STAR CHANNEL" group="CINE" logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg" tvg-country="CINE", STAR CHANNEL
+https://z949shw7qx.azcdn728.net:8443/hls/0e733j.m3u8?s=pUldSSatu5Lpa5k4nB2V7g&e=1627382860
+
+
+#EXTINF:-1 type="stream" channelId="3" name="STAR LIFE" group="CINE" logo="https://www.disneylapresspack.com/storage/posts/original_1613996463_STAR%20LIFE%20LOGO%20.jpg" tvg-country="CINE", STAR LIFE
+https://z949shw7qx.azcdn728.net:8443/hls/0e733j.m3u8?s=d0clE3p_dAA5chV3osRNDg&e=1627427307
+
+
+#EXTINF:-1 type="stream" channelId="4" name="STAR ACTION" group="CINE" logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarAction_Logo2021_FondoOscuro.png.9ce5338a20f5a3cc2725793156809319.png" tvg-country="CINE", STAR ACTION
+https://z949shw7qx.azcdn728.net:8443/hls/4612rwe.m3u8?s=SiekFaIm_Hg1YajAhIEcmA&e=1627427572
+
+
+#EXTINF:-1 type="stream" channelId="5" name="STAR SERIES" group="CINE" logo="" tvg-country="CINE", STAR SERIES
+
+
+
+#EXTINF:-1 type="stream" channelId="6" name="STAR COMEDY" group="CINE" logo="" tvg-country="CINE", STAR COMEDY
+
+
+
+#EXTINF:-1 type="stream" channelId="7" name="HBO" group="CINE" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" tvg-country="CINE", HBO
+https://z949shw7qx.azcdn728.net:8443/hls/lbqtn3.m3u8?s=93E8o4stH_2CsabpEd6uJQ&e=1627432466
+
+
+#EXTINF:-1 type="stream" channelId="8" name="HBO 2" group="CINE" logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" tvg-country="CINE", HBO 2
+https://z949shw7qx.azcdn728.net:8443/hls/x5r58d0omlmqph.m3u8?s=_ppih_VeOhF-VPg8phIvnQ&e=1627432789
+
+
+#EXTINF:-1 type="stream" channelId="9" name="TNT SERIES" group="CINE" logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" tvg-country="CINE", TNT SERIES
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoAFrkZEUNMZAjJvxXdkrwkEHws8jLE1tmI4DnMlmoRb73gaf-fLR4s11CTKxarack_B6bvl-C_8s0MlCzZq2-IgXR9Dl8kSOsAwfXzggiaYBBqpUv6dkb221c6ewrZYXCrPYlL3MjWryK9YjzCLKgj0v7Rwwvv88DxcX1Zapqs0Y_CkORS7ix8krEOC-b661Skw3sL9pLKI8aFwvJlucaZPf2BnXGcw0maZ4QtjVY8owyng4aRCa0u0lck-z8D2AUBwKdc_P_y1YCBxwDcs4CGbzmXvzUItJW8iiqzjYXAHgLkqIXAducHvyhsUBZkZQYoHdq1hwxeF5wnvAYdta-fMOt4MJME5R2GbYqElpbu9PXx3SXlqClfmVIxZ-2li_1F4IxtPluPwaYv4a6gzjVGG_1koPmXcmOOBRj3WFmviS0rs65rLv_RiP_yUIlHE5fNdBXlVj8KGxpebmUA3d4iV8iZNUxswcUH86hn41goKNc9xA8I5-_0qVtkeGl5TDFVPJXLeVX1Bos4uSCieClLpEA-3KGpHy7lJV7vruzJujEqRrSs2Vp1F_xsBHP9wkZZ1R8DCTU0UYMb5r4JBdQENHHAjZC0_Ue63RbCQInbdyxaoWUECfKqFWHafM3CImgupWxGpqj-lzGrrAdqJrTkfA0WtBsAUYElex2y0iJ0ZY0rF8JG_YmsC-teOODqr-ytsJgROnq1Bc_L_0srv69mmIwqQ1Fz5Jh-h2Be6UPh_1b4eCGUFp-0K4zHmx5nfpblRrj2VkbuXAkmC8eTFT58LgJYDkGhy_9bTCRAmHdAaWyl6tJz56_6E7TLngHbRnqeVN16FE0brKNDJO9fgGg5z5xIQLD_UNjYcnnJTAEepbrXmnxoM07a9KjgulFSaA5pW.m3u8
+
+
+#EXTINF:-1 type="stream" channelId="10" name="FOX PREMIUM ACTION" group="CINE" logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" tvg-country="CINE", FOX PREMIUM ACTION
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoAFpwaYpCO28LUKk6QK5o2Ws0kfQmU3apGqD5irWGRDq9Co5yD1Ix1yNwXKHl77EQytmavVSyOlWv6CHRQ-xnsz0LCcsiACqumZfX15O6_kmbmqvDzzxpdpZmrZenkvfkq-qvPmMSUO4rakImtuHMwnTarwd4-MA2kvMdRW0I9Z-mTKUzZ-0swWg1prkKd2jNv-mrKLHLQadZbem7_HaBossz9RikJdJnW1zQ3hZgFMQYvfh1rc04DeyWq-DidcmYvTI4EqxtBAflHd9Q_d1ujlR_1ACoB07d1KidxMyFx5kJAiJvtYQSIaMhThdekwCwcYzEn2sGjFLtrMOB2gotOEJo-9r_vWV1Aba_eDcFIugiWMe5t1zuu2bP3JNsLi3G6QwB3hIbNoxpftrPzIRd6VnPwZKeBlEMR-LmwH5rqjfhI_UbhfDZREZeWq7Zts0MK5Wwtw5meRhlmd1Jt_uADT2RDoSJGRQt6Y_5HkPo6Gj3Wx_oka12hSx3NDBhKTh4Dsu7iBKXDgj8zytv0V3rYWyJ9XVLBI426gxhO7a5a9gROGTsFf2mXikJbttzrVf2xcepmKOwq4_EgKgFw-MebKcN3kDJ4G0mvOJiatNoN65XdkbH3_MY9P34zxCHZGrpPo9gVZFesHBgZENZqYajF-N023jJhjeWxMk066VGRg1rn8j6ntC15ycv0sHFD2wTuG-1wbyPtU9EmrhuIwzgcsJSVspbS0j6KS86vKRGH7UAjG-Il3UDJPZjhjkqZvBHUWDqyS7DPkyYQhCtmnrVaiucs9FkYDTJS440taxMVm82g0uN9NZygvBDIY35va073nvs2a-VJ4618R2u4rTLIZxRIQiyQK21HBUhNHzq6_zkXtThoMYqZzfBFt1d0bDGnO.m3u8
+
+
+#EXTINF:-1 type="stream" channelId="11" name="FOX PREMIUM SERIES" group="CINE" logo="https://www.pngitem.com/pimgs/m/436-4360507_fox-series-logo-jpg-hd-png-download.png" tvg-country="CINE", FOX PREMIUM SERIES
+https://z949shw7qx.azcdn728.net:8443/hls/4dtc368405sw4mo.m3u8?s=T4B0EGMrWUHszEzl03173A&e=1627432581
+
+
+#EXTINF:-1 type="stream" channelId="12" name="FOX PREMIUM MOVIES" group="CINE" logo="" tvg-country="CINE", FOX PREMIUM MOVIES
+
+
+
+#EXTINF:-1 type="stream" channelId="13" name="FOX PREMIUM CINEMA" group="CINE" logo="" tvg-country="CINE", FOX PREMIUM CINEMA
+
+
+
+#EXTINF:-1 type="stream" channelId="14" name="FOX PREMIUM COMEDY" group="CINE" logo="" tvg-country="CINE", FOX PREMIUM COMEDY
+
+
+
+#EXTINF:-1 type="stream" channelId="15" name="WARNER BROS" group="CINE" logo="https://e7.pngegg.com/pngimages/722/1014/png-clipart-logo-warner-bros-others-emblem-company.png" tvg-country="CINE", WARNER BROS
+https://z949shw7qx.azcdn728.net:8443/hls/j5uwhfb7w5c.m3u8?s=yIr6w2zFbJx6DGyaJXtnGg&e=1627432326
+
+
+#EXTINF:-1 type="stream" channelId="16" name="AXN" group="CINE" logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" tvg-country="CINE", AXN
+https://z949shw7qx.azcdn728.net:8443/hls/l051rl.m3u8?s=_TSQVrKNL0_k4Ncaxu0_Og&e=1627433004
+
+
+#EXTINF:-1 type="stream" channelId="17" name="SONY" group="CINE" logo="http://assets.stickpng.com/images/5848242ecef1014c0b5e49c8.png" tvg-country="CINE", SONY
+https://z949shw7qx.azcdn728.net:8443/hls/oc2v2i6j.m3u8?s=N-lwwYPFzuy1TOwAgRfYqQ&e=1627433275
+
+
+#EXTINF:-1 type="stream" channelId="18" name="FX" group="CINE" logo="" tvg-country="CINE", FX
+
+
+
+#EXTINF:-1 type="stream" channelId="19" name="SPACE" group="CINE" logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png" tvg-country="CINE", SPACE
+https://29hm3pwm68.azcdn107.net:8443/hls/me4gtt8v3fmket.m3u8?s=06Wj8Us0jhq1hF8P3hNPnA&e=1627436280
+
+
+#EXTINF:-1 type="stream" channelId="20" name="STUDIO UNIVERSAL" group="CINE" logo="" tvg-country="CINE", STUDIO UNIVERSAL
+
+
+
+#EXTINF:-1 type="stream" channelId="21" name="UNIVERSAL CHANNEL" group="CINE" logo="" tvg-country="CINE", UNIVERSAL CHANNEL
+
+
+
+#EXTINF:-1 type="stream" channelId="22" name="GOLDEN" group="CINE" logo="" tvg-country="CINE", GOLDEN
+
+
+
+#EXTINF:-1 type="stream" channelId="23" name="GOLDEN EDGE" group="CINE" logo="" tvg-country="CINE", GOLDEN EDGE
+
+
+
+#EXTINF:-1 type="stream" channelId="24" name="PARAMOUNT" group="CINE" logo="https://www.cineytele.com/wp-content/uploads/2016/06/paramount-channel.png" tvg-country="CINE", PARAMOUNT
+https://z949shw7qx.azcdn728.net:8443/hls/vwchy5d.m3u8?s=tI73TtfFgFnY9DbA3C5rQA&e=1627433609
+
+
+#EXTINF:-1 type="stream" channelId="25" name="TELE NOVELAS" group="TV" logo="" tvg-country="TV", TELE NOVELAS
+https://z949shw7qx.azcdn728.net:8443/hls/ouxh0x6d70uxb.m3u8?s=jtkEyufspVJvzr7gCb_UXg&e=1627433955
+
+
+#EXTINF:-1 type="stream" channelId="26" name="RCN" group="TV" logo="" tvg-country="TV", RCN
+
+
+
+#EXTINF:-1 type="stream" channelId="27" name="CARACOL" group="TV" logo="https://caracoltv.brightspotcdn.com/dims4/default/7001139/2147483647/strip/true/crop/1000x716+0+0/resize/1200x859!/quality/90/?url=https%3A%2F%2Fcaracol-brightspot.s3-us-west-2.amazonaws.com%2Fassets%2Fbluradio%2Flogo_de_caracol_television.png" tvg-country="TV", CARACOL
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoEFX7-J0sE7TldS4VBlEHVDQ66yIj4uJMnbOtynRGn_F4Qpd6O4PoCON0wal04nCWYoNHYl38KdC9GEGmFvGPv6XjRLrPKCEVdbjPh58Y95dpc-oM3J78O2iVuOO3lpVBN3M6wmg71465uJrgXnXnPzqQ7qZ3Y19a797Rng5T3hRBwsr1K4s8pz5TTqD4LGgNIeuWOAQXGtXG0z7m_WTmAI9B5uIDrX9hyoOh7a7TgmNxyA32bxuAA0hllO9aY6C5nbnx96RJg0OYMI9TrBRGnuHHigT2Mp8aGVigMgEIufr0h1ugj2g2KUEQl6jJWGOu4m3qA8gz8hgOUJ4_5ohGT1IuVNy82ers9hu4JF_7p8HJOIM3YTZktdSkVxYoDGTOWaupbCq5KFjdVwTXl6MP5xoXhdVn24lQKKNzVDuV9bRQBVVgZVaDmJJEuT_B5BL_LCdlua7EOYPQcUQ3c6szyw3gJ1iHUlptD-Mm018xio2Lv4N_PPpoDWdRm7zEsUkF0WTZ2e-8oEjKyZP5b7lAFB_XOEsA8-BxBTF1HvjR7D_wYVNwH6P8KB6lpFknNMzLP6SB2IC9-CRaRBOeWYlPUYgrhYx2AEp0iWrj3N_Iiq-JvMxHGujWWFKQgb8Yoo20tNBcvsIWfcs2vg3A_TM-cqFiqXj2h_apCxue0516N6H6PyA0KTm44G2Xaj2rmRUXFakOEJptj3WmNrFiNfYNGTMgJ5eL90fbFKfkBjWcNSuWl9rZlOaT1q6vMGpoSbK6vI5KVlKMwa2A5pFS8Gsg4X7A_mwHOSEZKEW3eJtmOYHxZBiBxs7t2DsgP1xRa_LVYIeJN0ApO5QsotbrY1KGigAz8SEEkE45-wDdPb1_B6SqBlWA4aDLB0af4shOBrfU_iBQ.m3u8
+
+
+#EXTINF:-1 type="stream" channelId="28" name="DIRECTV SPORTS" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" tvg-country="DEPORTES", DIRECTV SPORTS
+https://e6.cdnfoxtv.com/ingest02/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=00zK6IlSf5buXTyCkV2tyQ&expires=1627427323&rnd=
+
+
+#EXTINF:-1 type="stream" channelId="29" name="DIRECTV SPORTS 2" group="DEPORTES" logo="" tvg-country="DEPORTES", DIRECTV SPORTS 2
+
+
+
+#EXTINF:-1 type="stream" channelId="30" name="DIRECTV SPORTS+" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" tvg-country="DEPORTES", DIRECTV SPORTS+
+https://e6.cdnfoxtv.com/ingest01/74000.m3u8?sf=Z3dKZ3BGZ0ZUVw==&token=GMSwueDRAh3dD_2tccDMYw&expires=1627427708&rnd=
+
+
+#EXTINF:-1 type="stream" channelId="31" name="FOX SPORTS" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" tvg-country="DEPORTES", FOX SPORTS
+https://29hm3pwm68.azcdn107.net:8443/hls/kx8ric6rf.m3u8?s=fr5pafkN0fxUvrA3g_UKkw&e=1627434992
+
+
+#EXTINF:-1 type="stream" channelId="32" name="TNT SPORTS" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/640px-TNT_Sports_2021_logo.svg.png" tvg-country="DEPORTES", TNT SPORTS
+https://29hm3pwm68.azcdn107.net:8443/hls/kqfqxg.m3u8?s=s13Ax7itBEUMxZ7boey7PQ&e=1627435079
+
+
+#EXTINF:-1 type="stream" channelId="33" name="ESPN" group="DEPORTES" logo="https://logos-marcas.com/wp-content/uploads/2020/12/ESPN-Logo.png" tvg-country="DEPORTES", ESPN
+https://e10.espncdn.live/ingestnb4s/espn_sur/d.m3u8
+
+
+#EXTINF:-1 type="stream" channelId="34" name="ESPN 2" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png" tvg-country="DEPORTES", ESPN 2
+https://29hm3pwm68.azcdn107.net:8443/hls/xqnp3kvij9pvoub.m3u8?s=_XX1C4HSXOJqbQnYgVXcXA&e=1627435491
+
+
+#EXTINF:-1 type="stream" channelId="36" name="WIN SPORTS" group="DEPORTES" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" tvg-country="DEPORTES", WIN SPORTS
+https://29hm3pwm68.azcdn107.net:8443/hls/dcgmsy35q.m3u8?s=IijfkuO4DiV0Rmq89tV-7w&e=1627435710
+
+
+#EXTINF:-1 type="stream" channelId="37" name="WIN SPORTS+" group="DEPORTES" logo="https://pbs.twimg.com/media/EOSM99MXkAE3dCl.jpg" tvg-country="DEPORTES", WIN SPORTS+
+https://29hm3pwm68.azcdn107.net:8443/hls/dcgmsy35q.m3u8?s=IijfkuO4DiV0Rmq89tV-7w&e=1627435710
+
+
+#EXTINF:-1 type="stream" channelId="38" name="BEIN SPORTS Ñ" group="DEPORTES" logo="" tvg-country="DEPORTES", BEIN SPORTS Ñ
+
+
+
+#EXTINF:-1 type="stream" channelId="39" name="24/7 LOS SIMPSONS" group="24/7" logo="" tvg-country="24/7", 24/7 LOS SIMPSONS
+
+
+
